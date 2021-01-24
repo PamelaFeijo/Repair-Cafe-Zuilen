@@ -1,0 +1,53 @@
+#over {
+  font-size: 1.5em;
+}
+
+.card-over {
+  box-shadow: 20px 4px 59px -14px rgba(233, 213, 213, 0.29);
+}
+
+.card-over:hover {
+  box-shadow: 20px 4px 59px -14px rgba(104, 101, 101, 0.29);
+}
+
+.card-header-over {
+  background-color: #e9d5d5;
+  padding: 4% 0;
+  text-align: center;
+}
+
+.card-text {
+  line-height: 2;
+  padding: 10% 5%;
+}
+
+.container-reparatie {
+  padding: 5% 8% 5% 20%;
+}
+
+.container-reparatie h2 {
+  margin-bottom: 5%;
+}
+
+.container-reparatie p {
+  font-size: 1.8em;
+  margin-left: 5%;
+}
+
+.image-decoration img {
+  width: 50%;
+  position: relative;
+  margin-left: 5%;
+  min-width: 300px;
+  border: 20px solid #eb6d4c;
+}
+
+.style-over {
+  background: #e9d5d5;
+  padding: 2% 10%;
+  margin: 0 10% 5%;
+}
+
+.style-over p {
+  font-size: 1.5em;
+}

@@ -1,0 +1,58 @@
+.main-content {
+  color: #fff;
+  margin-left: 10%;
+}
+
+.main-content h1 {
+  font-size: 3em;
+  font-weight: 700;
+  margin-top: 10%;
+}
+
+.main-content p {
+  font-size: 1.8em;
+}
+
+.grid-home {
+  font-size: 1.5em;
+  margin-top: 16%;
+  padding-bottom: 3%;
+}
+
+.covid-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 10%;
+}
+
+.covid-container p {
+  background: #e9d5d5;
+  display: flex;
+  padding: 2% 5%;
+  margin: 2%;
+}
+
+.covid-container button {
+  background: #eb6d4c;
+  border: none;
+  margin: 2%;
+  padding: 2% 3%;
+  transition-duration: 0.4s;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  cursor: pointer;
+}
+
+.button a {
+  text-decoration: none;
+  color: #000;
+}
+
+.button-style {
+  background: #eb6d4c;
+  color: #000;
+}
+
+.button-style:hover {
+  background-color: #e9d5d5;
+  color: #000;
+}

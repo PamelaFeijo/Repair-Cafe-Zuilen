@@ -1,0 +1,63 @@
+@media only screen and (max-width: 375px) { 
+  .container-navbar {
+    margin-left: 0;
+  }
+ 
+   .container-video p {   
+    width: 100%;
+  }
+  .container-video {
+    display: none;
+  }  
+} 
+
+
+@media only screen and (max-width: 800px) {  
+.container-reparatie {
+  display:none;
+}
+.container-video {
+  display: none;
+}
+.footer-content {
+  display:block; 
+  margin-left: 5%;  
+}
+.style-over {
+  margin: 5% 0;
+
+} 
+.covid-container p{  
+  margin-top: 5%;    
+}
+}
+
+@media only screen and (max-width: 997px) {  
+  .list-group-flush li {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+ .container-video{
+    display: none;
+  } 
+
+  .image-decoration {
+    display:none;
+  }
+}
+
+
+@media only screen and (max-width: 1010px){
+  .container-reparatie { 
+    padding-left: 0%; 
+    padding-right: 0;   
+    margin: 0;
+  }  
+}
+
+@media only screen and (max-width: 1375px) {    
+  .image-decoration img {
+    display: none;
+  }
+}

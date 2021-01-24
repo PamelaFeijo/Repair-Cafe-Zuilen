@@ -1,0 +1,28 @@
+.footer {
+  background: #2d2c7d;
+  color: #fff;   
+}
+
+.footer-content {
+  align-content: center;
+  justify-content: space-around;
+  display:flex; 
+  padding-top: 3%;  
+}
+
+.logo-footer {
+  filter: brightness(0) invert(1);
+}
+
+.email {
+  text-decoration: none;
+  color: #fff;
+}
+
+.copyright {
+  margin: 35px 0 0;
+  background: #1c222a;
+  line-height: 3.125rem;
+  font-size: 0.875rem;
+  color: #acb4b6;
+}

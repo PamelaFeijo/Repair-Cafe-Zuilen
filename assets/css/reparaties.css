@@ -1,0 +1,30 @@
+.card-style:nth-child(1) {
+  margin-right: 4%;
+}
+
+.card-style:nth-child(2) {
+  margin-right: 4%;
+}
+
+.card-style:nth-child(3) {
+  margin-right: 4%;
+}
+
+.card-style img {
+  height: 400px;
+}
+
+.container-video {
+  margin: 5% 0 0; 
+}
+
+.container-video p {
+  display: flex;
+  width: 50%;
+  font-size: 1.5rem;
+  padding-top: 5%;
+}
+
+.container-video iframe {
+  display: flex;
+}
